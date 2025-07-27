@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is George Efraim Karekos and I'm an Erasmus+ Exchange Student @ SU | Computer Science Undergraduate Student @ AUEB, from Greece!</h2>
+<h2 align="left">Hi 👋! My name is George Efraim Karekos| Computer Science Undergraduate Student @ AUEB, from Greece!</h2>
 
 ###
 
