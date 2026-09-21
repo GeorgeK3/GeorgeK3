@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is George Efraim Karekos| Computer Science Undergraduate Student @ AUEB, from Greece!</h2>
+<h2 align="left">Hi 👋! My name is George Efraim Karekos| BSc Computer Science @ AUEB, from Greece!</h2>
 
 ###
 
